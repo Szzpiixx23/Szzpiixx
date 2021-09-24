@@ -1,0 +1,57 @@
+body {
+  background-image: linear-gradient(to bottom right,rgb(248, 248, 161), rgb(167, 225, 248));
+}
+.name {
+  font-size: 70px;
+  font-weight: 500;
+  line-height: 80px;
+  margin: auto;
+  height: 80px;
+  text-align: center;
+}
+
+   .circle>.gambar-saya {
+      width: 200px;
+      height: 300px;
+      border-radius: 70%;
+      align-items: center;
+      margin: auto;
+      border: 1px dotted blanchedalmond
+   }
+
+   .hallo {
+    color: antiquewhite;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 100px;
+    margin: 10px;
+    height: 100px;
+}
+
+.desk {
+    
+  border-radius: 20px;
+  border: 5px solid #f8d893;
+  
+}
+
+table {
+  border-collapse: collapse;
+  margin: 5px;
+  height: 20px;
+  font-style: normal;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 20px;
+}
+
+.inspirasi {
+  font-size: 20px;
+  text-align: center;
+}
+
+
+th, td {
+  border: 1px solid black;
+  border-radius: 10px;
+}
